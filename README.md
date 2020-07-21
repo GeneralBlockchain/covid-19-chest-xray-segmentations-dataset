@@ -1,6 +1,6 @@
 # COVID-19 Chest X-ray Segmentations Dataset
 
-![COVID-19](https://user-images.githubusercontent.com/66736646/87999345-4ed00580-cb1c-11ea-9add-8f0d3e797a84.png)
+![COVID-19](https://user-images.githubusercontent.com/66736646/88059725-10236500-cb87-11ea-954c-1ee928c42294.png)
 
 ## Intro
 
