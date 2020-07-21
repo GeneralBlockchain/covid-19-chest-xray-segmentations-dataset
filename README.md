@@ -32,13 +32,13 @@ In this pandemic situation, our aim is to help researchers to find out a solutio
 
 A [repository](https://github.com/ieee8023/covid-chestxray-dataset) to build a public open dataset of chest X-ray and CT images of patients which are positive or suspected of COVID-19 or other viral and bacterial pneumonias (MERS, SARS, and ARDS.) was created by [Joseph Paul Cohen](https://github.com/ieee8023). Data have been collected from public sources as well as through indirect collection from hospitals and physicians.
 
-We are providing lung bounding boxes of those publicly available datasets.
+We are providing segmentations of those publicly available datasets.
 
 ---
 
 ## About the Dataset
 
-This dataset is a total collection of 282 images with Lung Bounding Boxes of Chest X-ray Dataset of Novel Coronavirus (COVID-19) Cases. The annotation file is in COCO format.
+This dataset is a total collection of 100 images with Segmentations of Chest X-ray Dataset of Novel Coronavirus (COVID-19) Cases. The annotation file is in COCO format.
 
 Each annotation contains two lung bounding boxes (Left Lung, Right Lung) with additional tags such as Finding, Modality, Sex, Survival, View. Each image was manually annotated by qualified radiologists.
 
@@ -50,23 +50,23 @@ Each annotation contains two lung bounding boxes (Left Lung, Right Lung) with ad
 
 ### Download the dataset as zip format
 
-![Download zip](https://user-images.githubusercontent.com/33668152/86793508-5956bd80-c08d-11ea-89b2-09d87d1d7a2f.png)
+![Download zip](https://user-images.githubusercontent.com/33668152/88057901-8e323c80-cb84-11ea-85de-9835d979f6e7.png)
 
 ### Download using git clone
 
 Open terminal and run the following command:
 
 ```
-git clone https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset.git
+git clone https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset.git
 ```
 
 ## Links and References
 
-- Dataset homepage: https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset
+- Dataset homepage: https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset
 
-- Repository: https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset.git
+- Repository: https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset.git
 
-- Issue tracker: https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset/issues
+- Issue tracker: https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset/issues
 
 - Image source: https://github.com/ieee8023/covid-chestxray-dataset
 <!--
