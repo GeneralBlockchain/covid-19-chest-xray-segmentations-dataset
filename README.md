@@ -99,7 +99,7 @@ Please access our Image Annotation AI services [here](https://www.imageannotatio
 
 ## License
 
-Each image has license specified in the [metadata.csv](https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset/blob/master/metadata.csv) file. Including Apache 2.0, CC BY-NC-SA 4.0, CC BY 4.0.
+Each image has license specified in the [metadata.csv](https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset/blob/master/metadata.csv) file. Including Apache 2.0, CC BY-NC-SA 4.0, CC BY 4.0.
 
 The repository is licensed under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
