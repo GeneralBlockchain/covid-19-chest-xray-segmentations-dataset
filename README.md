@@ -40,7 +40,7 @@ We are providing segmentations of those publicly available datasets.
 
 This dataset is a total collection of 100 images with Segmentations of Chest X-ray Dataset of Novel Coronavirus (COVID-19) Cases. The annotation file is in COCO format.
 
-Each annotation contains two lung bounding boxes (Left Lung, Right Lung) with additional tags such as Finding, Modality, Sex, Survival, View. Each image was manually annotated by qualified radiologists.
+Each annotation contains segmentations of Anatomical classes (Left lung, Right lung, Cardiomediastinum, Airways), Pathology classes (Ground glass opacities, Consolidation, Pleural effusion, Pneumothorax), Objects (Endotracheal tube, Central veinous line, Monitoring probes, Nasogastric tube, Chest tube, Tubings). Each image was manually annotated by qualified radiologists.
 
 **Warning:** Do not claim diagnostic performance of a model without a clinical study!
 
