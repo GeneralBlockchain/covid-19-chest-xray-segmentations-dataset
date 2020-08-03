@@ -12,6 +12,8 @@ Segmentations of COVID-19 Chest X-ray Dataset.
 
 Go [here](#download-the-dataset) if you don't have time.
 
+<p align="center"><img src="https://user-images.githubusercontent.com/66736646/89189135-60f08000-d5c1-11ea-87cc-bb10b8bb635a.gif" /></p>
+
 ---
 
 ## Table of Contents
