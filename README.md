@@ -46,6 +46,10 @@ Each annotation contains segmentations of Anatomical classes (Left lung, Right l
 
 **Warning:** Do not claim diagnostic performance of a model without a clinical study!
 
+| No        | Category           | Images  | Masks  |
+| ------------- |:-------------:| -----:| -----:|
+| 1          |    Right Lung        | 616 | 616 |
+
 ---
 
 ## Download the Dataset
