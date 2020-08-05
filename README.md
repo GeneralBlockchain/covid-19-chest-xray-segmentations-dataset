@@ -10,7 +10,24 @@
 
 Segmentations of COVID-19 Chest X-ray Dataset.
 
-Go [here](#download-the-dataset) if you don't have time.
+If you don't have time, go [here](#download-the-dataset) for the latest version (updated regularly).
+
+| No        | Category           | Images  | Masks  |
+| ------------- |:-------------:| -----:| -----:|
+| 1          |    Left Lung        | 99 | 99 |
+| 2          |    Right Lung        | 100 | 100 |
+| 3          |    Cardiomediastinum        | 100 | 100 |
+| 4          |    Airways        | 99 | 99 |
+| 5          |    Ground glass opacities        | 93 | 93 |
+| 6          |    Consolidation        | 32 | 32 |
+| 7          |    Pleural effusion        | 2 | 2 |
+| 8          |    Pneumothorax        | 1 | 1 |
+| 9          |    Endotracheal tube        | 13 | 13 |
+| 10          |    Central veinous line        | 11 | 11 |
+| 11          |    Monitoring probes        | 26 | 26 |
+| 12          |    Nasogastric tube        | 10 | 10 |
+| 13          |    Chest tube        | - | - |
+| 14          |    Tubings        | 16 | 16 |
 
 <p align="center"><img src="https://user-images.githubusercontent.com/66736646/89189135-60f08000-d5c1-11ea-87cc-bb10b8bb635a.gif" /></p>
 
@@ -45,23 +62,6 @@ This dataset is a total collection of 100 images with Segmentations of Chest X-r
 Each annotation contains segmentations of Anatomical classes (Left lung, Right lung, Cardiomediastinum, Airways), Pathology classes (Ground glass opacities, Consolidation, Pleural effusion, Pneumothorax), Objects (Endotracheal tube, Central veinous line, Monitoring probes, Nasogastric tube, Chest tube, Tubings). Each image was manually annotated by qualified radiologists.
 
 **Warning:** Do not claim diagnostic performance of a model without a clinical study!
-
-| No        | Category           | Images  | Masks  |
-| ------------- |:-------------:| -----:| -----:|
-| 1          |    Left Lung        | 99 | 99 |
-| 2          |    Right Lung        | 100 | 100 |
-| 3          |    Cardiomediastinum        | 100 | 100 |
-| 4          |    Airways        | 99 | 99 |
-| 5          |    Ground glass opacities        | 93 | 93 |
-| 6          |    Consolidation        | 32 | 32 |
-| 7          |    Pleural effusion        | 2 | 2 |
-| 8          |    Pneumothorax        | 1 | 1 |
-| 9          |    Endotracheal tube        | 13 | 13 |
-| 10          |    Central veinous line        | 11 | 11 |
-| 11          |    Monitoring probes        | 26 | 26 |
-| 12          |    Nasogastric tube        | 10 | 10 |
-| 13          |    Chest tube        | - | - |
-| 14          |    Tubings        | 16 | 16 |
 
 ---
 
