@@ -46,11 +46,22 @@ Each annotation contains segmentations of Anatomical classes (Left lung, Right l
 
 **Warning:** Do not claim diagnostic performance of a model without a clinical study!
 
-<!--
 | No        | Category           | Images  | Masks  |
 | ------------- |:-------------:| -----:| -----:|
-| 1          |    Right Lung        | 616 | 616 |
--->
+| 1          |    Left Lung        | 99 | 99 |
+| 2          |    Right Lung        | 100 | 100 |
+| 3          |    Cardiomediastinum        | 100 | 100 |
+| 4          |    Airways        | 99 | 99 |
+| 5          |    Ground glass opacities        | 93 | 93 |
+| 6          |    Consolidation        | 32 | 32 |
+| 7          |    Pleural effusion        | 2 | 2 |
+| 8          |    Pneumothorax        | 1 | 1 |
+| 9          |    Endotracheal tube        | 13 | 13 |
+| 10          |    Central veinous line        | 11 | 11 |
+| 11          |    Monitoring probes        | 26 | 26 |
+| 12          |    Nasogastric tube        | 10 | 10 |
+| 13          |    Chest tube        | - | - |
+| 14          |    Tubings        | 16 | 16 |
 
 ---
 
