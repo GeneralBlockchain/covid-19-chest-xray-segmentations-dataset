@@ -63,6 +63,8 @@ Each annotation contains segmentations of Anatomical classes (Left lung, Right l
 
 **Warning:** Do not claim diagnostic performance of a model without a clinical study!
 
+[graph](https://user-images.githubusercontent.com/66736646/89774793-50438b00-db28-11ea-9051-829867186741.png)
+
 ---
 
 ## Download the Dataset
